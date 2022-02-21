@@ -1,0 +1,8 @@
+{
+  "name": "com.FunJimChee.UnityCommonTool",
+  "displayName": "UnityCommonTool",
+  "description": "彙整專案常用之功能",
+  "version": "0.1.0",
+  "unity": "2019.1",
+  "type": "tool"
+}
